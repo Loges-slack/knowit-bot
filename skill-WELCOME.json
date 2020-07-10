@@ -1,0 +1,1182 @@
+{
+  "intents": [
+    {
+      "intent": "FACULTY",
+      "examples": [
+        {
+          "text": "assistant professor"
+        },
+        {
+          "text": "masters"
+        },
+        {
+          "text": "dean"
+        },
+        {
+          "text": "research director"
+        },
+        {
+          "text": "director"
+        },
+        {
+          "text": "chancellor"
+        },
+        {
+          "text": "vice chancellor"
+        },
+        {
+          "text": "hod"
+        },
+        {
+          "text": "head of department"
+        },
+        {
+          "text": "associate professor"
+        },
+        {
+          "text": "schemes for faculties"
+        },
+        {
+          "text": "policies for faculties"
+        },
+        {
+          "text": "staff"
+        },
+        {
+          "text": "professor"
+        },
+        {
+          "text": "master degree"
+        },
+        {
+          "text": "doctorate"
+        },
+        {
+          "text": "doctor degree"
+        },
+        {
+          "text": "courses"
+        },
+        {
+          "text": "Doctoral Degree"
+        },
+        {
+          "text": "FACULTY"
+        },
+        {
+          "text": "TEACHERS"
+        },
+        {
+          "text": "teach"
+        },
+        {
+          "text": "trainers"
+        }
+      ],
+      "description": "FACULTY"
+    },
+    {
+      "intent": "intdvpsch",
+      "examples": [
+        {
+          "text": "MODERNISATION"
+        },
+        {
+          "text": "REMOVAL OF OBSOLESCENCE"
+        },
+        {
+          "text": "institutions"
+        },
+        {
+          "text": "educational institutions"
+        },
+        {
+          "text": "india"
+        },
+        {
+          "text": "deemed university"
+        },
+        {
+          "text": "college development"
+        },
+        {
+          "text": "aicte approved"
+        },
+        {
+          "text": "institute development"
+        },
+        {
+          "text": "devlopment"
+        },
+        {
+          "text": "promote institution"
+        },
+        {
+          "text": "schemes for institutes"
+        }
+      ],
+      "description": "https://www.aicte-india.org/schemes/institutional-development-schemes"
+    },
+    {
+      "intent": "edusch",
+      "examples": [
+        {
+          "text": "distance education"
+        },
+        {
+          "text": "national scheme for education"
+        },
+        {
+          "text": "notes"
+        },
+        {
+          "text": "technical"
+        },
+        {
+          "text": "industry training"
+        },
+        {
+          "text": "technology development"
+        },
+        {
+          "text": "digital library"
+        },
+        {
+          "text": "web education"
+        },
+        {
+          "text": "industry relation"
+        },
+        {
+          "text": "Apprenticeship Training"
+        },
+        {
+          "text": "technical education"
+        }
+      ],
+      "description": "edi"
+    },
+    {
+      "intent": "ministry",
+      "examples": [
+        {
+          "text": "chemical"
+        },
+        {
+          "text": "AYUSH"
+        },
+        {
+          "text": "fertilizer"
+        },
+        {
+          "text": "railways"
+        },
+        {
+          "text": "animal"
+        },
+        {
+          "text": "women"
+        },
+        {
+          "text": "youth"
+        },
+        {
+          "text": "shipping"
+        },
+        {
+          "text": "petroleum"
+        },
+        {
+          "text": "water"
+        },
+        {
+          "text": "tourism"
+        },
+        {
+          "text": "home affairs"
+        },
+        {
+          "text": "natural gas"
+        },
+        {
+          "text": "jai shakthi"
+        },
+        {
+          "text": "information technologies"
+        },
+        {
+          "text": "culture"
+        },
+        {
+          "text": "defence"
+        },
+        {
+          "text": "corporate affairs"
+        },
+        {
+          "text": "commerce"
+        },
+        {
+          "text": "communication"
+        },
+        {
+          "text": "civil aviation"
+        },
+        {
+          "text": "msme"
+        },
+        {
+          "text": "external affairs"
+        },
+        {
+          "text": "information technology"
+        },
+        {
+          "text": "coal"
+        }
+      ],
+      "description": "agriculture"
+    },
+    {
+      "intent": "stategovt",
+      "examples": [
+        {
+          "text": "Chattisgarh"
+        },
+        {
+          "text": "Uttar Pradesh"
+        },
+        {
+          "text": "Haryana"
+        },
+        {
+          "text": "West Bengal"
+        },
+        {
+          "text": "Jammu and Kashmir"
+        },
+        {
+          "text": "Himachal Pradesh"
+        },
+        {
+          "text": "Goa"
+        },
+        {
+          "text": "Meghalaya"
+        },
+        {
+          "text": "Punjab"
+        },
+        {
+          "text": "Delhi"
+        },
+        {
+          "text": "Maharashtra"
+        },
+        {
+          "text": "gujarat"
+        },
+        {
+          "text": "tamilnadu"
+        },
+        {
+          "text": "states"
+        },
+        {
+          "text": "Andaman and Nicobar Islands"
+        },
+        {
+          "text": "Telangana"
+        },
+        {
+          "text": "Kerala"
+        },
+        {
+          "text": "Sikkim"
+        },
+        {
+          "text": "Karnataka"
+        },
+        {
+          "text": "Mizoram"
+        },
+        {
+          "text": "Andhra Pradesh"
+        },
+        {
+          "text": "Assam"
+        },
+        {
+          "text": "Nagaland"
+        },
+        {
+          "text": "Manipur"
+        },
+        {
+          "text": "Tripura"
+        },
+        {
+          "text": "Arunachal Pradesh"
+        },
+        {
+          "text": "Jharkhand"
+        },
+        {
+          "text": "Bihar"
+        },
+        {
+          "text": "Odisha"
+        },
+        {
+          "text": "Uttarakhand"
+        },
+        {
+          "text": "Rajasthan"
+        }
+      ],
+      "description": "state govt"
+    },
+    {
+      "intent": "RESEARCH_AND_INNOVATION_DEVELOPMENT_SCHEMES",
+      "examples": [
+        {
+          "text": "ORGANIZING CONFERENCE"
+        },
+        {
+          "text": "financial assistance to institutions"
+        },
+        {
+          "text": "International Conferences"
+        },
+        {
+          "text": "Research"
+        },
+        {
+          "text": "newer technologies"
+        },
+        {
+          "text": "RPS"
+        },
+        {
+          "text": "research ambience"
+        },
+        {
+          "text": "AICTE approved Technical Institutions"
+        },
+        {
+          "text": "Doctoral degree candidates"
+        },
+        {
+          "text": "e-resources"
+        },
+        {
+          "text": "Government-aided technical"
+        },
+        {
+          "text": "engineering colleges"
+        },
+        {
+          "text": "University Departments having atleast one PG course in the concerned department."
+        },
+        {
+          "text": "self employment"
+        },
+        {
+          "text": "entrepreneurship"
+        },
+        {
+          "text": "entrepreneurship development"
+        },
+        {
+          "text": "management personnel"
+        },
+        {
+          "text": "research grant"
+        },
+        {
+          "text": "research community"
+        },
+        {
+          "text": "Premier institutions of the country"
+        },
+        {
+          "text": "innovation"
+        },
+        {
+          "text": "development"
+        },
+        {
+          "text": "university"
+        },
+        {
+          "text": "institutions"
+        },
+        {
+          "text": "schemes for research"
+        }
+      ],
+      "description": "https://www.aicte-india.org/schemes/research-innovations-development-schemes"
+    },
+    {
+      "intent": "GENERAL_SCHEMES",
+      "examples": [
+        {
+          "text": "common"
+        },
+        {
+          "text": "Innovative Learning Methods"
+        },
+        {
+          "text": "Funding Support"
+        },
+        {
+          "text": "Infrastructure"
+        },
+        {
+          "text": "schemes general"
+        },
+        {
+          "text": "innovation in Governance of the Institution"
+        },
+        {
+          "text": "general"
+        },
+        {
+          "text": "educational institutions"
+        },
+        {
+          "text": "general schemes"
+        },
+        {
+          "text": "EDUCATION"
+        },
+        {
+          "text": "PMKVY"
+        },
+        {
+          "text": "rural development"
+        },
+        {
+          "text": "Technical Institutes"
+        },
+        {
+          "text": "rural"
+        },
+        {
+          "text": "cultural development"
+        },
+        {
+          "text": "social mobilization"
+        },
+        {
+          "text": "village community"
+        },
+        {
+          "text": "spread motivation"
+        },
+        {
+          "text": "ARIIA"
+        },
+        {
+          "text": "Innovation and Entrepreneurship Development"
+        },
+        {
+          "text": "Govt. of India"
+        },
+        {
+          "text": "MHRD"
+        },
+        {
+          "text": "higher educational institutions"
+        }
+      ],
+      "description": "https://www.aicte-india.org/schemes/other-schemes"
+    },
+    {
+      "intent": "birac",
+      "examples": [
+        {
+          "text": "plant biology"
+        },
+        {
+          "text": "molecular biology"
+        },
+        {
+          "text": "cell biology"
+        },
+        {
+          "text": "genetics"
+        },
+        {
+          "text": "animal biotechnology"
+        },
+        {
+          "text": "microbiology"
+        },
+        {
+          "text": "biotechnology"
+        },
+        {
+          "text": "biology"
+        },
+        {
+          "text": "birac"
+        }
+      ],
+      "description": "birac"
+    },
+    {
+      "intent": "student",
+      "examples": [
+        {
+          "text": "Scholarship"
+        },
+        {
+          "text": "ug"
+        },
+        {
+          "text": "students schemes"
+        },
+        {
+          "text": "support for students"
+        },
+        {
+          "text": "support for studens"
+        },
+        {
+          "text": "pg"
+        },
+        {
+          "text": "competition"
+        },
+        {
+          "text": "START-UPS"
+        },
+        {
+          "text": "gmat"
+        },
+        {
+          "text": "higher education"
+        },
+        {
+          "text": "doctoral"
+        },
+        {
+          "text": "master students"
+        },
+        {
+          "text": "masters"
+        },
+        {
+          "text": "trainee"
+        },
+        {
+          "text": "trainees"
+        },
+        {
+          "text": "students"
+        },
+        {
+          "text": "gate"
+        },
+        {
+          "text": "student scholarship"
+        }
+      ],
+      "description": "Scholarship"
+    },
+    {
+      "intent": "sports",
+      "examples": [
+        {
+          "text": "policies for sports"
+        },
+        {
+          "text": "schemes for sports"
+        },
+        {
+          "text": "physical"
+        },
+        {
+          "text": "physical fitness"
+        },
+        {
+          "text": "football"
+        },
+        {
+          "text": "basketball"
+        },
+        {
+          "text": "competitions"
+        },
+        {
+          "text": "sports"
+        },
+        {
+          "text": "physical education"
+        },
+        {
+          "text": "sports statewise"
+        }
+      ],
+      "description": "sports for students"
+    },
+    {
+      "intent": "nri",
+      "examples": [
+        {
+          "text": "research for nri"
+        },
+        {
+          "text": "non residential indian"
+        },
+        {
+          "text": "schemes for nri"
+        },
+        {
+          "text": "nri"
+        },
+        {
+          "text": "other countries"
+        },
+        {
+          "text": "Diaspora Children"
+        },
+        {
+          "text": "admission for students abroad"
+        }
+      ],
+      "description": "nri"
+    },
+    {
+      "intent": "icmr",
+      "examples": [
+        {
+          "text": "corona virus"
+        },
+        {
+          "text": "disease"
+        },
+        {
+          "text": "sanitaion"
+        },
+        {
+          "text": "medical council"
+        },
+        {
+          "text": "medical job"
+        },
+        {
+          "text": "icmr"
+        },
+        {
+          "text": "srf"
+        },
+        {
+          "text": "job"
+        },
+        {
+          "text": "tuberculosis"
+        },
+        {
+          "text": "nirt"
+        },
+        {
+          "text": "health"
+        },
+        {
+          "text": "medical"
+        },
+        {
+          "text": "clinical trials"
+        },
+        {
+          "text": "diseases"
+        },
+        {
+          "text": "medical doctor"
+        }
+      ],
+      "description": "gggg"
+    },
+    {
+      "intent": "grant_scholor",
+      "examples": [
+        {
+          "text": "merit scholorship"
+        },
+        {
+          "text": "post graduate"
+        },
+        {
+          "text": "emeritus"
+        },
+        {
+          "text": "scholorship"
+        },
+        {
+          "text": "fellowship"
+        },
+        {
+          "text": "jrf"
+        },
+        {
+          "text": "ugc scheme"
+        },
+        {
+          "text": "ugc"
+        },
+        {
+          "text": "national fellowship"
+        },
+        {
+          "text": "junior research fellow"
+        }
+      ],
+      "description": "scsdcsd"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "aicte",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "technical institution",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "government",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "deemed university",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "conference",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "international",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "national level",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "welcome",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "hello",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "buddy",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "hii",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "morning",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "bot",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "knowit",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/schemes-state-governments-of-india.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#stategovt",
+      "dialog_node": "node_9_1594359283536",
+      "previous_sibling": "node_7_1594359246935"
+    },
+    {
+      "type": "standard",
+      "title": "faculty",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/institutional-development-schemes.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#intdvpsch",
+      "dialog_node": "node_3_1594354977699",
+      "previous_sibling": "node_2_1594354528956"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/research-and-innovation-development.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#RESEARCH_AND_INNOVATION_DEVELOPMENT_SCHEMES",
+      "dialog_node": "node_1_1594353223379",
+      "previous_sibling": "node_1_1594327988987"
+    },
+    {
+      "type": "standard",
+      "title": "nri",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/schemes-for-iits-and-research-innovation.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#nri",
+      "dialog_node": "node_3_1594357016302",
+      "previous_sibling": "node_2_1594356101797"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/search/label/ICMR"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#icmr",
+      "dialog_node": "node_8_1594360426436",
+      "previous_sibling": "node_1_1594360187726"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/scholarships-grants-and-fellowships.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#grant_scholor",
+      "dialog_node": "node_3_1594357594136",
+      "previous_sibling": "node_3_1594357424686"
+    },
+    {
+      "type": "standard",
+      "dialog_node": "node_8_1594360417138",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "ministry",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/schemes-ministries-of-government-of.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ministry",
+      "dialog_node": "node_8_1594359196174",
+      "previous_sibling": "node_3_1594357594136"
+    },
+    {
+      "type": "standard",
+      "title": "request",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "SEARCH WITH THE REQUIRED KEYWORD BASED ON THE REQUIREMENT"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "@welcome",
+      "dialog_node": "node_1_1594327988987",
+      "previous_sibling": "node_8_1594360417138"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_8_1594360426436",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/sports-schemes-by-state-governments-of.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#sports",
+      "dialog_node": "node_7_1594359246935",
+      "previous_sibling": "node_8_1594359196174"
+    },
+    {
+      "type": "standard",
+      "title": "education schemes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/1.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#edusch",
+      "dialog_node": "node_3_1594357424686",
+      "previous_sibling": "node_3_1594357016302"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/search/label/BIRAC"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#birac",
+      "dialog_node": "node_1_1594360187726",
+      "previous_sibling": "node_9_1594359283536"
+    },
+    {
+      "type": "standard",
+      "title": "general schemes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/general-schemes.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#GENERAL_SCHEMES",
+      "dialog_node": "node_2_1594354528956",
+      "previous_sibling": "node_1_1594353223379"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/students-development-scheme.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#student",
+      "dialog_node": "node_2_1594356101797",
+      "previous_sibling": "node_4_1594355559649"
+    },
+    {
+      "type": "standard",
+      "title": "faculty",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "https://knowitknowit.blogspot.com/2020/07/faculty-development-schemes.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FACULTY",
+      "dialog_node": "node_4_1594355559649",
+      "previous_sibling": "node_3_1594354977699"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "WELCOME",
+  "language": "en",
+  "description": "WELCOME TO THE ALL IN ONE ASSISTANT FOR ALL YOUR POLICIES AND SCHEMES"
+}
